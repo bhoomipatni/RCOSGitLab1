@@ -5,3 +5,4 @@ Git Lab 1 Repo
 - Graduating Year: 2028
 - Project: MarketMind
     - Subarea: Machine Learning and Backend 
+![Alt text](meme.webp)
